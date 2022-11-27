@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Ringtone Manager</string>
+    <string name="activate">Activate Ringtone Randomizer</string>
+    <string name="deactivate">Deactivate Ringtone Randomizer</string>
+    <string name="list_of_ringtones">List of Ringtones</string>
+</resources>
